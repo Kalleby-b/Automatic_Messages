@@ -1,3 +1,4 @@
+#Fazendo as importações
 import customtkinter as ctk
 import tkinter as tk
 from tkinter import ttk
